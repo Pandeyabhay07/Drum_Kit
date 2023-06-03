@@ -81,9 +81,9 @@ background-image: url(./images/tom1.png);
 }
 .footer{
   position: absolute;
-  bottom: 2px;
+  bottom: 0px;
   left: 40%;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .svg{
   display: flex;
