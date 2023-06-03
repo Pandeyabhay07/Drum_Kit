@@ -28,9 +28,9 @@ function makeSound(key){
             var kick=new Audio("sounds/kick-bass.mp3");
             kick.play();
             break;
-        default:
+//         default:
 //             alert("Please press the write key :)");
-            break;
+//             break;
     }
 }
 
