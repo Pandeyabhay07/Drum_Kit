@@ -29,7 +29,7 @@ function makeSound(key){
             kick.play();
             break;
         default:
-            alert("Please press the write key :)");
+//             alert("Please press the write key :)");
             break;
     }
 }
