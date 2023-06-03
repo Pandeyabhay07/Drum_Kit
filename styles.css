@@ -81,7 +81,7 @@ background-image: url(./images/tom1.png);
 }
 .footer{
   position: absolute;
-  bottom: 10px;
+  bottom: 2px;
   left: 40%;
   font-size: 2rem;
 }
